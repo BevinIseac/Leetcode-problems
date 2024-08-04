@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/BevinIseac/Leetcode-problems/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
