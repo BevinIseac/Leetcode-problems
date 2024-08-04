@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Union Find
 |  |
 | ------- |
