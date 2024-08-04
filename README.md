@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BevinIseac/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BevinIseac/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/BevinIseac/Leetcode-problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/BevinIseac/Leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
