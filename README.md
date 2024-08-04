@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/BevinIseac/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/BevinIseac/Leetcode-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/BevinIseac/Leetcode-problems/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/BevinIseac/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
