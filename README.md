@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/BevinIseac/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
+| [1803-average-waiting-time](https://github.com/BevinIseac/Leetcode-problems/tree/master/1803-average-waiting-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/BevinIseac/Leetcode-problems/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/BevinIseac/Leetcode-problems/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/BevinIseac/Leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/BevinIseac/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 ## Memoization
 |  |
