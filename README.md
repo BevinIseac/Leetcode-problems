@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
