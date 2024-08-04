@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BevinIseac/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
+| [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
