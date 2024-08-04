@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
 | [1039-find-the-town-judge](https://github.com/BevinIseac/Leetcode-problems/tree/master/1039-find-the-town-judge) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
