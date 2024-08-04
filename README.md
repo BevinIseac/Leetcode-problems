@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/BevinIseac/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0136-single-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/BevinIseac/Leetcode-problems/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
