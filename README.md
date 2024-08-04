@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/BevinIseac/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/BevinIseac/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BevinIseac/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BevinIseac/Leetcode-problems/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
