@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/BevinIseac/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/BevinIseac/Leetcode-problems/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
