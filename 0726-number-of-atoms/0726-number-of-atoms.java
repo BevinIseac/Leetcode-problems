@@ -1,63 +1,70 @@
-class Solution {
-     public String countOfAtoms(String s) {
-        int n = s.length();
-        Stack<Pair<String, Integer>> stk = new Stack<>();
-        
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
-            if (ch == '(') {
-                stk.push(new Pair<>(String.valueOf(ch), 0));
-            } else if (ch == ')') {
-                int mul = 0;
-                while (i + 1 < n && Character.isDigit(s.charAt(i + 1))) {
-                    mul = mul * 10 + (s.charAt(i + 1) - '0');
-                    i++;
-                }
-                if (mul == 0) mul = 1;
-                
-                Stack<Pair<String, Integer>> temp = new Stack<>();
-                while (!stk.isEmpty() && !stk.peek().getKey().equals("(")) {
-                    Pair<String, Integer> p = stk.pop();
-                    p = new Pair<>(p.getKey(), p.getValue() * mul);
-                    temp.push(p);
-                }
-                stk.pop();
-                while(temp.size() > 0) stk.push(temp.pop());
-            } else {
-                if (i + 1 < n) {
-                    String name = String.valueOf(ch);
-                    if(Character.isLowerCase(s.charAt(i + 1))) {
-                        name += s.charAt(i + 1);
+class Solution 
+{
+    public class Ss{
+        String a = "";
+        int cnt = 1;
+        Ss(String a, int cnt)
+        {this.a = a; this.cnt = cnt;}
+    };
+
+
+    public String countOfAtoms(String formula) {
+        int n = formula.length(), i=0;
+        StringBuilder ans = new StringBuilder();
+        List<Ss> stack = new LinkedList<>();
+
+        while(i<n){
+
+                    if(formula.charAt(i)>='A' && formula.charAt(i)<='Z'){
+                        String ff = ""+formula.charAt(i);i++;
+                        if(i<n && formula.charAt(i)>='a' && formula.charAt(i)<='z'){
+                            ff+=formula.charAt(i);i++;
+                        }
+                        int cnt = 1;
+                        String pj = "";
+                        while(i<n && formula.charAt(i)>='0' && formula.charAt(i)<='9'){
+                            pj+=formula.charAt(i); i++;
+                        }
+                        if(pj.length()>0){cnt=Integer.valueOf(pj);}
+                        stack.add(new Ss(ff, cnt));
+                    }
+                    else if(formula.charAt(i)=='('){
+                        stack.add(new Ss(""+formula.charAt(i), 1));
                         i++;
                     }
-                    int count = 0;
-                    while(i + 1 < n && Character.isDigit(s.charAt(i + 1))) {
-                        count = count * 10 + (s.charAt(i + 1) - '0');
+                    else if(formula.charAt(i)==')'){
                         i++;
+                        int cnt = 1;
+                        String pj = "";
+                        while(i<n && formula.charAt(i)>='0' && formula.charAt(i)<='9'){
+                            pj+=formula.charAt(i); i++;
+                        }
+                        if(pj.length()>0){cnt=Integer.valueOf(pj);}
+                        List<Ss> temp = new LinkedList<>();
+
+
+                        while(!stack.isEmpty() && !stack.getLast().a.equals("(")){
+                            Ss ab = stack.removeLast(); ab.cnt*=cnt;
+                            temp.add(ab);
+                        }
+                        stack.removeLast();
+                        stack.addAll(temp);
                     }
-                    if(count == 0) count = 1;
-                    stk.push(new Pair<>(name, count));
-                } else {
-                    stk.push(new Pair<>(String.valueOf(ch), 1));
-                }
-            }
+
         }
-        
-        // Reconstruct the result
-        Map<String, Integer> mp = new TreeMap<>();
-        while (!stk.isEmpty()) {
-            Pair<String, Integer> p = stk.pop();
-            mp.put(p.getKey(), mp.getOrDefault(p.getKey(), 0) + p.getValue());
+
+
+        TreeMap<String, Integer> tm = new TreeMap<>();
+        for(Ss p: stack){
+           tm.put(p.a, tm.getOrDefault(p.a, 1)+p.cnt);
         }
-        
-        StringBuilder sb = new StringBuilder();
-        for (Map.Entry<String, Integer> entry : mp.entrySet()) {
-            sb.append(entry.getKey());
-            if (entry.getValue() > 1) {
-                sb.append(entry.getValue());
-            }
+        for(Map.Entry<String, Integer> ma: tm.entrySet()){
+            ans.append(ma.getKey());
+            Integer kk = ma.getValue() -1;
+            String pl = kk.toString();
+            if(kk!=1)
+            ans.append(pl);
         }
-        
-        return sb.toString();
+        return ans.toString();
     }
 }
