@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2481-strictly-palindromic-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/BevinIseac/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
