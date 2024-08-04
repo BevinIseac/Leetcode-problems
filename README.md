@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/BevinIseac/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
+| [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2756-buy-two-chocolates](https://github.com/BevinIseac/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
+| [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/2058-concatenation-of-array) |
+| [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
 ## Memoization
 |  |
 | ------- |
