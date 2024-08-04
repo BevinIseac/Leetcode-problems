@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
