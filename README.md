@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/BevinIseac/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
