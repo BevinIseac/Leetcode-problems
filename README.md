@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/BevinIseac/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
