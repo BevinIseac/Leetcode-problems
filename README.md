@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/BevinIseac/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/BevinIseac/Leetcode-problems/tree/master/0164-maximum-gap) |
+| [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/BevinIseac/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
