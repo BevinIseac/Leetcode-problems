@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/BevinIseac/Leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/BevinIseac/Leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BevinIseac/Leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
