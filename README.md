@@ -172,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
