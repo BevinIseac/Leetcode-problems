@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/2058-concatenation-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Graph
 |  |
 | ------- |
