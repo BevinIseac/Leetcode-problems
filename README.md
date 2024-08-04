@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/BevinIseac/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
+| [3334-apple-redistribution-into-boxes](https://github.com/BevinIseac/Leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2756-buy-two-chocolates](https://github.com/BevinIseac/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
+| [3334-apple-redistribution-into-boxes](https://github.com/BevinIseac/Leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3334-apple-redistribution-into-boxes](https://github.com/BevinIseac/Leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 ## Backtracking
 |  |
 | ------- |
