@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BevinIseac/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/BevinIseac/Leetcode-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/BevinIseac/Leetcode-problems/tree/master/0066-plus-one) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/BevinIseac/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/BevinIseac/Leetcode-problems/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
