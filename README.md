@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BevinIseac/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
