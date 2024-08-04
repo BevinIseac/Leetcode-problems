@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/BevinIseac/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -324,10 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/BevinIseac/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BevinIseac/Leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/BevinIseac/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/BevinIseac/Leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/BevinIseac/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Queue
 |  |
 | ------- |
