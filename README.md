@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/BevinIseac/Leetcode-problems/tree/master/0164-maximum-gap) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/BevinIseac/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/BevinIseac/Leetcode-problems/tree/master/0742-to-lower-case) |
 ## Dynamic Programming
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 ## Bit Manipulation
 |  |
 | ------- |
