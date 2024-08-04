@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/BevinIseac/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
+| [3371-harshad-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/3371-harshad-number) |
 ## String
 |  |
 | ------- |
