@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/0001-two-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
