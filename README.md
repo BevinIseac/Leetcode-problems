@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/BevinIseac/Leetcode-problems/tree/master/0048-rotate-image) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/BevinIseac/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/BevinIseac/Leetcode-problems/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/BevinIseac/Leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/BevinIseac/Leetcode-problems/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
