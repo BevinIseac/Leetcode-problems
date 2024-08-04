@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1791-richest-customer-wealth](https://github.com/BevinIseac/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1791-richest-customer-wealth](https://github.com/BevinIseac/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
