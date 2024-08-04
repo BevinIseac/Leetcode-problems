@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
