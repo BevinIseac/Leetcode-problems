@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
