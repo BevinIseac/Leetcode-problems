@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/BevinIseac/Leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/BevinIseac/Leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
