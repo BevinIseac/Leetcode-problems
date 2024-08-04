@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BevinIseac/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/BevinIseac/Leetcode-problems/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/BevinIseac/Leetcode-problems/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BevinIseac/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/BevinIseac/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BevinIseac/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
