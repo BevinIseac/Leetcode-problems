@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/BevinIseac/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/BevinIseac/Leetcode-problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
