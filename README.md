@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/BevinIseac/Leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Monotonic Stack
 |  |
 | ------- |
