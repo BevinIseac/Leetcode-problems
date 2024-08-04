@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/BevinIseac/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
