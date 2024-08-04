@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1039-find-the-town-judge](https://github.com/BevinIseac/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Graph
 |  |
 | ------- |
