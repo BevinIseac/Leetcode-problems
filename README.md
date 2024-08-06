@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/BevinIseac/Leetcode-problems/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/BevinIseac/Leetcode-problems/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BevinIseac/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/BevinIseac/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/BevinIseac/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/BevinIseac/Leetcode-problems/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/BevinIseac/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/BevinIseac/Leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/BevinIseac/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BevinIseac/Leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/BevinIseac/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
