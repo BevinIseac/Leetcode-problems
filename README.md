@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BevinIseac/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0870-magic-squares-in-grid](https://github.com/BevinIseac/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [0870-magic-squares-in-grid](https://github.com/BevinIseac/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/BevinIseac/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/BevinIseac/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0507-perfect-number) |
+| [0870-magic-squares-in-grid](https://github.com/BevinIseac/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/BevinIseac/Leetcode-problems/tree/master/1642-water-bottles) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0870-magic-squares-in-grid](https://github.com/BevinIseac/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
