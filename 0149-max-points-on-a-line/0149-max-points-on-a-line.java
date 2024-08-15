@@ -1,34 +1,22 @@
 class Solution {
     public int maxPoints(int[][] points) {
-        if (points == null) return 0;
-        int length = points.length;
-        if (length <= 2) return length;
-        int result = 0;
-        for (int i = 0;i<points.length;i++){
-            Map<Double, Integer> map = new HashMap<>();
-            int count = 1;
-            int same = 0;
-            for (int j = 0;j<points.length;j++){
-                if(j != i){
-                    int firstX = points[i][0];
-                    int firstY = points[i][1];
-                    int secondX = points[j][0];
-                    int secondY = points[j][1];
-                    if (firstX == secondX && firstY == secondY){ 
-                        same++;
-                        continue;
+        int n = points.length;
+        if(n == 1 || n == 2)
+        return n;
+        int ans = 2;
+        for(int i = 0 ; i < n ; i++){
+            for(int j = i + 1 ; j < n ; j++){
+                int tempAns = 2;
+                for(int k = j + 1 ; k < n ; k++){                   
+                    int xCo = (points[j][1] - points[i][1]) * (points[k][0] - points[i][0]);
+                    int yCo = (points[k][1] - points[i][1]) * (points[j][0] - points[i][0]);
+                    if(xCo == yCo){
+                        tempAns++;
                     }
-                    if (firstX == secondX) {
-                        count++;                    
-                        continue;
-                    }
-                    double k = (double)(secondY - firstY) / (double)(secondX - firstX);
-                    map.put(k, map.getOrDefault(k, 1)+1);
-                    result = Math.max(result, map.get(k) + same);
                 }
+                ans = Math.max(ans , tempAns);
             }
-            result = Math.max(result, count);
-        }
-        return result;
+        }   
+        return ans;
     }
 }
