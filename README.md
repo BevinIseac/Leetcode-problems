@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
+| [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
+| [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/BevinIseac/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/BevinIseac/Leetcode-problems/tree/master/1039-find-the-town-judge) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/BevinIseac/Leetcode-problems/tree/master/0742-to-lower-case) |
+| [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
+| [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/BevinIseac/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/BevinIseac/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -386,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
