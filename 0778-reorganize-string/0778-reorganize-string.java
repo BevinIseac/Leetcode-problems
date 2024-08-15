@@ -1,38 +1,34 @@
 class Solution {
     public String reorganizeString(String s) {
-        int strLen = s.length();
-        var charCounter = new int[26];
+        Map<Character, Integer> charFreq = new HashMap<>();
         for (char c : s.toCharArray()) {
-            charCounter[c - 'a']++;
+            charFreq.put(c, charFreq.getOrDefault(c, 0) + 1);
         }
-        int maxOccurance = 0;
-        int letterIndex = 0;
-        for (int i = 0; i < charCounter.length; i++) {
-            if (charCounter[i] > maxOccurance) {
-                maxOccurance = charCounter[i];
-                letterIndex = i;
+
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> b[1] - a[1]);
+        for (Map.Entry<Character, Integer> entry : charFreq.entrySet()) {
+            maxHeap.offer(new int[]{entry.getKey(), entry.getValue()});
+        }
+
+        StringBuilder res = new StringBuilder();
+        int[] prev = new int[]{'#', 0};
+
+        while (!maxHeap.isEmpty()) {
+            int[] current = maxHeap.poll();
+            res.append((char) current[0]);
+
+            if (prev[1] > 0) {
+                maxHeap.offer(prev);
             }
+
+            current[1]--;
+            prev = current;
         }
-        if (maxOccurance > (strLen + 1) / 2) {
+
+        if (res.length() != s.length()) {
             return "";
         }
-        var result = new char[strLen];
-        int index = 0;
-        while (charCounter[letterIndex] != 0) {
-            result[index] = (char) (letterIndex + 'a');
-            index += 2;
-            charCounter[letterIndex]--;
-        }
-        for (int i = 0; i < charCounter.length; i++) {
-            while (charCounter[i] > 0){
-                if (index >= s.length()) {
-                    index = 1;
-                }
-                result[index] = (char) (i + 'a');
-                index += 2;
-                charCounter[i]--;
-            }
-        }
-        return String.valueOf(result);
+
+        return res.toString();        
     }
 }
