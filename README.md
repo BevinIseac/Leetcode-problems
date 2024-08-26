@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/BevinIseac/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
+| [3188-find-champion-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/BevinIseac/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/BevinIseac/Leetcode-problems/tree/master/3221-find-the-peaks) |
 | [3334-apple-redistribution-into-boxes](https://github.com/BevinIseac/Leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/BevinIseac/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/BevinIseac/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
+| [3188-find-champion-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3188-find-champion-i) |
 ## Monotonic Stack
 |  |
 | ------- |
