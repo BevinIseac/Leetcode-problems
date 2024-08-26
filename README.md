@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/BevinIseac/Leetcode-problems/tree/master/3221-find-the-peaks) |
 | [3334-apple-redistribution-into-boxes](https://github.com/BevinIseac/Leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/BevinIseac/Leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/BevinIseac/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [3371-harshad-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/3371-harshad-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/BevinIseac/Leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
