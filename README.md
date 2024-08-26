@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/BevinIseac/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/BevinIseac/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/BevinIseac/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/BevinIseac/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/BevinIseac/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Search Tree
 |  |
