@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/BevinIseac/Leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BevinIseac/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
