@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/BevinIseac/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
+| [3194-find-words-containing-character](https://github.com/BevinIseac/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3334-apple-redistribution-into-boxes](https://github.com/BevinIseac/Leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/BevinIseac/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3468-find-the-encrypted-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/3468-find-the-encrypted-string) |
 ## Dynamic Programming
