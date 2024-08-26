@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/BevinIseac/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/BevinIseac/Leetcode-problems/tree/master/1803-average-waiting-time) |
+| [1833-find-the-highest-altitude](https://github.com/BevinIseac/Leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 | [1835-decode-xored-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/1835-decode-xored-permutation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -462,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/BevinIseac/Leetcode-problems/tree/master/0149-max-points-on-a-line) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/BevinIseac/Leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
