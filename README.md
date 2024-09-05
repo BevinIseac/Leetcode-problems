@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/BevinIseac/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/BevinIseac/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/BevinIseac/Leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/BevinIseac/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0932-monotonic-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/BevinIseac/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/BevinIseac/Leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/BevinIseac/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/BevinIseac/Leetcode-problems/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/BevinIseac/Leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/BevinIseac/Leetcode-problems/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/BevinIseac/Leetcode-problems/tree/master/1803-average-waiting-time) |
