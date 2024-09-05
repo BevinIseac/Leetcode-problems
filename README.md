@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/BevinIseac/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BevinIseac/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/BevinIseac/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/BevinIseac/Leetcode-problems/tree/master/1803-average-waiting-time) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/BevinIseac/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BevinIseac/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/BevinIseac/Leetcode-problems/tree/master/1720-crawler-log-folder) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BevinIseac/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1970-sorting-the-sentence](https://github.com/BevinIseac/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
