@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/BevinIseac/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0551-student-attendance-record-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0726-number-of-atoms](https://github.com/BevinIseac/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/BevinIseac/Leetcode-problems/tree/master/0742-to-lower-case) |
