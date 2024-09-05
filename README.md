@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BevinIseac/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BevinIseac/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1970-sorting-the-sentence](https://github.com/BevinIseac/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/BevinIseac/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/BevinIseac/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/BevinIseac/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/BevinIseac/Leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
 ## Memoization
