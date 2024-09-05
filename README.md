@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/1835-decode-xored-permutation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BevinIseac/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BevinIseac/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/BevinIseac/Leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/BevinIseac/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BevinIseac/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BevinIseac/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -502,4 +505,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/BevinIseac/Leetcode-problems/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BevinIseac/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
