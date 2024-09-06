@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/BevinIseac/Leetcode-problems/tree/master/3221-find-the-peaks) |
 | [3334-apple-redistribution-into-boxes](https://github.com/BevinIseac/Leetcode-problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/BevinIseac/Leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/BevinIseac/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/BevinIseac/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
 |  |
 | ------- |
