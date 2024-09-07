@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/BevinIseac/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/BevinIseac/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/BevinIseac/Leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/BevinIseac/Leetcode-problems/tree/master/2035-count-sub-islands) |
 ## Binary Search Tree
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/BevinIseac/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Union Find
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/BevinIseac/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/BevinIseac/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BevinIseac/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1484-linked-list-in-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/BevinIseac/Leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/BevinIseac/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Heap (Priority Queue)
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/BevinIseac/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/BevinIseac/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
+| [1484-linked-list-in-binary-tree](https://github.com/BevinIseac/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
 |  |
