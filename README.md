@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/BevinIseac/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/BevinIseac/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/BevinIseac/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/BevinIseac/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/BevinIseac/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/BevinIseac/Leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/BevinIseac/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/BevinIseac/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/BevinIseac/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/BevinIseac/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/BevinIseac/Leetcode-problems/tree/master/1022-unique-paths-iii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/BevinIseac/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1835-decode-xored-permutation](https://github.com/BevinIseac/Leetcode-problems/tree/master/1835-decode-xored-permutation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Matrix
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0948-sort-an-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/BevinIseac/Leetcode-problems/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/BevinIseac/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BevinIseac/Leetcode-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
