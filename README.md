@@ -544,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/BevinIseac/Leetcode-problems/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/BevinIseac/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/BevinIseac/Leetcode-problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
