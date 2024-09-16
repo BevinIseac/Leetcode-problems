@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/BevinIseac/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2846-robot-collisions](https://github.com/BevinIseac/Leetcode-problems/tree/master/2846-robot-collisions) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/BevinIseac/Leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3188-find-champion-i](https://github.com/BevinIseac/Leetcode-problems/tree/master/3188-find-champion-i) |
 | [3194-find-words-containing-character](https://github.com/BevinIseac/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/BevinIseac/Leetcode-problems/tree/master/3221-find-the-peaks) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/BevinIseac/Leetcode-problems/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/BevinIseac/Leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/BevinIseac/Leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/BevinIseac/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-number-of-changing-keys](https://github.com/BevinIseac/Leetcode-problems/tree/master/3312-number-of-changing-keys) |
