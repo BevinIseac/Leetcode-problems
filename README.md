@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/BevinIseac/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/BevinIseac/Leetcode-problems/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-number-of-changing-keys](https://github.com/BevinIseac/Leetcode-problems/tree/master/3312-number-of-changing-keys) |
 | [3468-find-the-encrypted-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/3468-find-the-encrypted-string) |
 ## Dynamic Programming
 |  |
