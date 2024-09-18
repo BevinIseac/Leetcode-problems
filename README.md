@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/BevinIseac/Leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/BevinIseac/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/BevinIseac/Leetcode-problems/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/BevinIseac/Leetcode-problems/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BevinIseac/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BevinIseac/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/BevinIseac/Leetcode-problems/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/BevinIseac/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/BevinIseac/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/BevinIseac/Leetcode-problems/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/BevinIseac/Leetcode-problems/tree/master/0389-find-the-difference) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BevinIseac/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/BevinIseac/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BevinIseac/Leetcode-problems/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/BevinIseac/Leetcode-problems/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/BevinIseac/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/BevinIseac/Leetcode-problems/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/BevinIseac/Leetcode-problems/tree/master/0890-lemonade-change) |
